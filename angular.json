@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "leaflet-angular9"
+    }
+  },
+  "defaultProject": "leaflet-angular9",
+  "cli": {
+    "analytics": false
+  }
 }
